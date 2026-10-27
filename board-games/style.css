@@ -1,0 +1,9 @@
+/* LEAVE THESE */
+
+/* NEW CSS HERE */
+h1 {color:bisque;}
+table, th, td {
+    background-color:rgb(227, 253, 244); 
+    border:2px solid;
+    padding:10px
+}
