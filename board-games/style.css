@@ -2,9 +2,15 @@
 
 /* NEW CSS HERE */
 h1 {color:bisque;}
-table, th, td {
+table , tr, td {
     background-color:rgb(227, 253, 244); 
     border:2px solid;
     padding:10px
 }
 p {font-family:Georgia;}
+th{
+    background-color:rgb(17, 31, 63);
+    color:whitesmoke;
+    border:2px solid;
+    padding:10px
+}
